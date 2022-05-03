@@ -55,7 +55,7 @@ static char const help_str[] =
     "\r\n"
     "Commands are Case Insensitive\r\n"
     "Use Backspace Key (BS) for Correction\r\n"
-    "Use the DISP command to desplay all options\r\n"
+    "Use the DISP command to display all options\r\n"
     "Insert Jumper J4 and Connect GPS for APRS Operation\r\n"
     "Insert Jumper J5 and Connect to Terminal for Command Interpreter\r\n"
     "\r\n"
